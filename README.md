@@ -1,5 +1,5 @@
 ## Welcome
-<div style="text-align: right;">
-    <img src="star.svg" alt="svg-star" />
-</div>
+
+<img src="star.svg" alt="svg-star" style="float: right; width: 100px;"/>
+<br style="clear: both;" />
 
