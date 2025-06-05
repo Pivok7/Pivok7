@@ -4,7 +4,7 @@
 <svg
    width="800"
    height="150"
-   viewBox="0 60 130 10"
+   viewBox="-10 110 150 15"
    version="1.1"
    id="svg1"
    sodipodi:docname="star.svg"
@@ -51,7 +51,7 @@
          offset="0"
          id="stop1" />
       <stop
-         style="stop-color:#ffab0b;stop-opacity:1;"
+         style="stop-color:#00bbbb;stop-opacity:1;"
          offset="1"
          id="stop2" />
     </linearGradient>
@@ -66,7 +66,7 @@
        gradientUnits="userSpaceOnUse" />
   </defs>
   <g
-     inkscape:label="Warstwa 1"
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
     <path
