@@ -1,6 +1,6 @@
 ## Welcome
 
-<p align="center">
+<p align="right">
     <img src="star.svg"/>
 </p>
 
