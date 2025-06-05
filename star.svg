@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="131.28789mm"
-   height="131.85036mm"
-   viewBox="0 0 131.28789 131.85036"
+   width="200mm"
+   height="200mm"
+   viewBox="-100 0 100 200"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
@@ -103,10 +103,10 @@
      <animateTransform
 	  attributeName="transform"
 	  begin="0s"
-	  dur="10s"
+	  dur="20s"
 	  type="rotate"
-	  from="0 65 65"
-	  to="360 65 65"
+	  from="360 65 65"
+	  to="0 65 65"
 	  repeatCount="indefinite" />
   </g>
 </svg>
