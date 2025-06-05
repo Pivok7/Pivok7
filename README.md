@@ -4,4 +4,4 @@
 
 ## Welcome
 
-This Reamde is work in progress
+I'm a hobby programmer interested in computer graphics and language design.
