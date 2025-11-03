@@ -4,4 +4,4 @@
 
 ## Welcome
 
-I'm a hobby programmer interested in computer graphics and language design.
+I'm a hobby programmer interested in computer graphics and compiler design.
