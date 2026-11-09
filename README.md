@@ -6,4 +6,4 @@
 
 I'm a hobby programmer interested in computer graphics and compiler design.
 
-I mainly use [Codeberg](https://codeberg.org/Pivok) and [Radicle](https://radicle.network/nodes/pivok.radicle.garden) now.
+I mainly use [Codeberg](https://codeberg.org/Pivok) now.
